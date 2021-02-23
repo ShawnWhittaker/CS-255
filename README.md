@@ -1,2 +1,8 @@
 # CS-255
 Systems Analysis and Design
+
+In CS 255, we had to design a program for a client, DriverPass. DriverPass wanted a learning platform system their users could utilize to help pass their DMV Licensing Tests. Aside from learning module content, DriverPass wanted a system to create driving appointments for in person driving instruction.
+I was able to create Business Requirements Documentation, as well as accompanying System Design Documentation, so we, as well as our client, could easily see the user stories needed, as well as how the system would be able to accomodate different users and tasks. 
+One part I would revise would be my use case diagram within my System Design Documentation. I do not feel it adequately shows the use cases the Admin would need. As it stands, my current use case diagram simply shows both the user and the admin having the same access to the same parts of the system.
+In terms of my user's needs, I believe I was able to implement the client's customer's needs well. As the main bulk of the individuals using the system, it is important to make sure they have an acceptable experience. If the Admin has a problem, they can come to us. If the User has a problem, they may get frustrated and cancel their membership to DriverPass and blame our client for the issue. 
+For designing software, it is important to hear and understand the user stories. Take the user stories and create a plan for implementation, using Big Visual Charts to ensure cooperation and unity within the team. Agile focuses on the customer, as so it is important to focus your development around the user stories.
